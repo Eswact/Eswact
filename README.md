@@ -25,10 +25,3 @@ picking up whatever the project needed along the way.
 ### Tools & Automation
 `Puppeteer` `Cheerio`
 `Git` `Expo / React Native`
-
----
-
-## 📬 Contact
-
-- LinkedIn: [linkedin.com/in/eren-saribay](https://linkedin.com/in/eren-saribay)
-- Email: eren99srb@gmail.com
