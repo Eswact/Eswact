@@ -19,9 +19,11 @@ picking up whatever the project needed along the way.
 
 ### Backend & Data
 `Node.js` `Express.js` `.NET`
-`MongoDB` `MsSQL` `Redis`
-`REST API` `SSE`
+`MongoDB` `MSSQL` `Redis`
+`REST APIs` `SSE`
 
-### Tools & Automation
+### Mobile & Cross-Platform
+`Expo / React Native` `Cordova` `PWA` 
+
+### Automation & Scraping
 `Puppeteer` `Cheerio`
-`Git` `Expo / React Native`
