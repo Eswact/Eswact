@@ -1,13 +1,8 @@
 # Hi, I'm Eren 👋
 
-Frontend-focused developer building modern web, mobile, and data-driven systems.
-Currently working at Çamlıca Barkod, where I've been part of multiple live projects
-from early stages through long-term maintenance.
+Frontend-focused Software Developer building modern web, mobile, and data-driven systems. Experienced in taking products from early development stages through deployment and long-term maintenance.
 
-I work primarily on the frontend with Vue.js, React, and Next.js, while also contributing
-to the backend side with Node.js and Express — and occasionally .NET when needed.
-Beyond the UI, I've built data pipelines, REST APIs, and React Native mobile apps —
-picking up whatever the project needed along the way.
+I work primarily with Vue.js, React, and Next.js on the frontend, while also contributing to backend development using Node.js, Express, and occasionally .NET. Beyond the UI, I've built REST APIs, data pipelines, and React Native mobile applications.
 
 ---
 
