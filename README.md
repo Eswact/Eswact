@@ -1,24 +1,22 @@
 # Hi, I'm Eren 👋
 
-Frontend-focused Software Developer building modern web, mobile, and data-driven systems. Experienced in taking products from early development stages through deployment and long-term maintenance.
+Software Developer focused on building web and mobile applications, with a strong focus on frontend development.
 
-I work primarily with Vue.js, React, and Next.js on the frontend, while also contributing to backend development using Node.js, Express, and occasionally .NET. Beyond the UI, I've built REST APIs, data pipelines, and React Native mobile applications.
+I work primarily with Vue.js, React, and Next.js, while also building full-stack applications, APIs, and mobile products with React Native and Expo.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-`Vue 3` `React` `Next.js` `TailwindCSS`
-`JavaScript` `TypeScript` `Three.js`
+`Vue.js` `React` `Next.js` `TailwindCSS`
+`JavaScript` `TypeScript`
 
-### Backend & Data
-`Node.js` `Express.js` `.NET`
-`MongoDB` `MSSQL` `Redis`
-`REST APIs` `SSE`
+### Backend & APIs
+`Node.js` `Express.js` `.NET` `FastAPI` `REST APIs` `SSE`
 
-### Mobile & Cross-Platform
-`Expo / React Native` `Cordova` `PWA` 
+### Databases & Storage
+`MongoDB` `SQLite` `MSSQL` `Redis`
 
-### Automation & Scraping
-`Puppeteer` `Cheerio`
+### Mobile
+`React Native` `Expo` `Cordova` `PWA`
